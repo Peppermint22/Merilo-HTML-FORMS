@@ -100,7 +100,6 @@ body {
     width: 100%;
     padding: 5px;
     font-size: 14px;
-    -webkit-appearance: none;
 }
 
 .form-row textarea {
@@ -163,7 +162,7 @@ body {
         margin-left: 120px;
     }
     .form-row .checkbox-label {
-        margin-left: 120px;
+        margin-left: 95px;
         width: auto;
         }
 }
